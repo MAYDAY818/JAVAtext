@@ -1,0 +1,7 @@
+package snippet;
+
+public class Snippet {
+	//邮政编码
+		private String postalCode;
+}
+

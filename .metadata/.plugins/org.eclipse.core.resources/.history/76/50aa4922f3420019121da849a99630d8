@@ -1,0 +1,9 @@
+package com.spring.demo3;
+
+public class Snippet {
+	<bean id="userServiceImpl2" class="com.spring.demo2.UserServiceImpl">
+	    	<property name="userDao" ref="userDao2"></property>
+	    </bean>
+	    <bean id="userDao2" class="com.spring.demo2.UserDao"></bean>
+}
+

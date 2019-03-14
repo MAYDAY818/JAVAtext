@@ -1,0 +1,7 @@
+package springLife;
+
+import org.springframework.beans.factory.config.InstantiationAwareBeanPostProcessorAdapter;
+
+public class MyInstantiationAwareBeanPostProcessor extends InstantiationAwareBeanPostProcessorAdapter {
+
+}

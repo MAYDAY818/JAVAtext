@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/新建文件夹/Compressed/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/新建文件夹/Compressed/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/新建文件夹/Compressed/lib/fastjson-1.2.41.jar"/>
+	<classpathentry kind="lib" path="D:/新建文件夹/Compressed/lib/httpclient-4.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/新建文件夹/Compressed/lib/httpcore-4.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/新建文件夹/Compressed/lib/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/新建文件夹/Compressed/lib/jdom2-2.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/新建文件夹/Compressed/lib/jetty-util-9.3.7.v20160115.jar"/>
+	<classpathentry kind="lib" path="D:/新建文件夹/Compressed/lib/junit-3.8.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

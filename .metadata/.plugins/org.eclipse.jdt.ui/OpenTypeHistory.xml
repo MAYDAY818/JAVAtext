@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=springText01/src&lt;com.spring.demo1{BeanFactory.java[BeanFactory" modifiers="1" timestamp="1551702660705"/>
+<typeInfo handle="=springLife/E:\/java\/springLife\/WebContent\/WEB-INF\/lib\/spring-beans-4.0.0.RELEASE.jar&lt;org.springframework.beans.factory(BeanFactoryAware.class[BeanFactoryAware" modifiers="1537" timestamp="1545285216925"/>
+<typeInfo handle="=springLife/E:\/java\/springLife\/WebContent\/WEB-INF\/lib\/spring-beans-4.0.0.RELEASE.jar&lt;org.springframework.beans.factory(BeanFactory.class[BeanFactory" modifiers="1537" timestamp="1545285216925"/>
+<typeInfo handle="=springLife/E:\/java\/springLife\/WebContent\/WEB-INF\/lib\/spring-beans-4.0.0.RELEASE.jar&lt;org.springframework.beans.factory(BeanNameAware.class[BeanNameAware" modifiers="1537" timestamp="1545285216925"/>
+<typeInfo handle="=springLife/E:\/java\/springLife\/WebContent\/WEB-INF\/lib\/spring-beans-4.0.0.RELEASE.jar&lt;org.springframework.beans.factory(InitializingBean.class[InitializingBean" modifiers="1537" timestamp="1545285216925"/>
+<typeInfo handle="=springLife/WebContent\/WEB-INF\/lib\/spring-beans-4.0.0.RELEASE.jar&lt;org.springframework.beans.factory(DisposableBean.class[DisposableBean" modifiers="1537" timestamp="1545285216925"/>
+<typeInfo handle="=springLife/E:\/java\/springLife\/WebContent\/WEB-INF\/lib\/spring-beans-4.0.0.RELEASE.jar&lt;org.springframework.beans.factory.config(BeanPostProcessor.class[BeanPostProcessor" modifiers="1537" timestamp="1545285216925"/>
+<typeInfo handle="=springLife/E:\/java\/springLife\/WebContent\/WEB-INF\/lib\/spring-beans-4.0.0.RELEASE.jar&lt;org.springframework.beans.factory.config(InstantiationAwareBeanPostProcessorAdapter.class[InstantiationAwareBeanPostProcessorAdapter" modifiers="1057" timestamp="1545285216925"/>
+<typeInfo handle="=springLife/E:\/java\/springLife\/WebContent\/WEB-INF\/lib\/spring-beans-4.0.0.RELEASE.jar&lt;org.springframework.beans.factory.config(BeanFactoryPostProcessor.class[BeanFactoryPostProcessor" modifiers="1537" timestamp="1545285216925"/>
+<typeInfo handle="=springDemo04-01-proxy-text/C:\/Program Files\/Java\/jdk-10.0.1\/lib\/jrt-fs.jar`java.base&lt;java.lang.reflect(InvocationHandler.class[InvocationHandler" modifiers="1537" timestamp="1529826707764"/>
+<typeInfo handle="=springDemo04-01-proxy-text/C:\/Program Files\/Java\/jdk-10.0.1\/lib\/jrt-fs.jar`jdk.plugin&lt;com.sun.java.browser.plugin2.liveconnect.v1(InvocationDelegate.class[InvocationDelegate" modifiers="1537" timestamp="1529826707764"/>
+</typeInfoHistroy>

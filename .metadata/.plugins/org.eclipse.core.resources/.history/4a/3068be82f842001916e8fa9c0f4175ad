@@ -1,0 +1,14 @@
+package com.spring.demo5;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class ListUserTest {
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}

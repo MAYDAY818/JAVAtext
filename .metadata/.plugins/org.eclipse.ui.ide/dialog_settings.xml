@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="E:\study\持久化框架\HibernateCH05\HibernateCH04-06"/>
+		<item value="E:\study\持久化框架\HibernateCH05\HibernateCH04-05"/>
+		<item value="E:\study\持久化框架\HibernateCH05\HibernateCH05-04"/>
+		<item value="E:\study\持久化框架\HibernateCH05\HibernateCH05-03"/>
+		<item value="E:\study\持久化框架\HibernateCH05\HibernateCH05-02"/>
+		<item value="E:\study\持久化框架\HibernateCH05\HibernateCH05-01"/>
+		<item value="E:\study\spring\springDemo04-01-proxy-五"/>
+		<item value="E:\study\spring\springWorkSpace"/>
+		<item value="E:\study\spring\springDIDemo"/>
+		<item value="E:\study\spring\springDIDemo\springDemo2-06-gaojiBeanDi"/>
+		<item value="E:\study\spring\springDIDemo\springDemo2-05-2DI"/>
+		<item value="E:\study\spring\springDIDemo\springDemo2-05-1di-四"/>
+		<item value="E:\study\持久化框架\HibernateCH04\HibernateCH04-04"/>
+		<item value="E:\study\持久化框架\HibernateCH04\HibernateCH04-03"/>
+		<item value="E:\study\持久化框架\HibernateCH04\HibernateCH04-02"/>
+		<item value="E:\study\持久化框架\HibernateCH04\HibernateCH04-01"/>
+		<item value="E:\study\spring\springWorkSpace\springDemo02-04"/>
+		<item value="E:\study\spring\springWorkSpace\springDemo02-03-newBean"/>
+		<item value="E:\study\spring\springWorkSpace\springDemo2-02-2-三"/>
+		<item value="E:\study\spring\springWorkSpace\springDemo2-02-三"/>
+		<item value="E:\study\spring\springWorkSpace\springDemo2-01"/>
+		<item value="E:\study\spring\springDemo01-two-二"/>
+		<item value="E:\study\spring\SpringDemoTest01"/>
+		<item value="E:\study\持久化框架\HibernateCH03\HibernateCH03-06"/>
+		<item value="E:\study\持久化框架\HibernateCH03\HibernateCH03-05"/>
+		<item value="E:\study\持久化框架\HibernateCH03\HibernateCH03-04"/>
+		<item value="E:\study\持久化框架\HibernateCH03\HibernateCH03-03"/>
+		<item value="E:\study\持久化框架\HibernateCH03\HibernateCH03-02"/>
+		<item value="E:\study\持久化框架\HibernateCH03\HibernateCH03-01"/>
+		<item value="E:\study\持久化框架\HibernateCH03\HibernateCH02-04"/>
+		<item value="E:\study\spring\course-spring\ch01-IoC&amp;DI-and-introducation-of-Spring\springDemo01-一"/>
+		<item value="E:\study\spring\course-spring\ch01-IoC&amp;DI-and-introducation-of-Spring\iocdemo"/>
+		<item value="E:\javaEE\demo"/>
+		<item value="D:\新建文件夹\Compressed\javaHttpApiDemo"/>
+	</list>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.emf.codegen.ecore.ui.wizardCategory"/>
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="org.eclipse.jst.j2ee.internal"/>
+			<item value="org.eclipse.wst.jsdt.ui.java"/>
+		</list>
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+</section>

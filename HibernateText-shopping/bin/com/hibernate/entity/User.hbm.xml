@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.hibernate.entity">
+    <class name="User" table="user">
+        <id name="id">
+            <generator class="increment"/>
+        </id>
+        <property name="userName" column="user_name"/>
+        <property name="password"/>
+        
+        <!-- 映射一对一关联关系 -->
+        <!-- one-to-one(一对一)
+            name:属性名
+            class:关联的类型
+            cascade:级联操作
+                -all:所有操作都级联
+                -save-update:保存或者更新时级联
+                -delete:删除时级联
+                -none:不级联（默认值） -->
+        <one-to-one name="shopping" class="Shopping" cascade="delete"></one-to-one>
+    </class>
+</hibernate-mapping>

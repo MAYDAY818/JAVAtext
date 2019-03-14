@@ -1,0 +1,5 @@
+package com.hibernate.demo1;
+
+public class HomeAdress {
+
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server port="8080">
+  <module context="springText01" name="springText01" path="E:/java/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/springText01" type="j2ee"/>
+  <module context="springDemo04-01-proxy-text" name="springDemo04-01-proxy-text" path="E:/java/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/springDemo04-01-proxy-text" type="j2ee"/>
+</server>

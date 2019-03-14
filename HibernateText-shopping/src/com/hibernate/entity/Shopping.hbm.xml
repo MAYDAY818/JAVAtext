@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.hibernate.entity">
+    <class name="Shopping" table="shopping">
+        <id name="id">
+            <!-- 当主键也是外键时使用这种生成策略 -->
+            <generator class="foreign">
+                <!-- 声明外键值的来源
+                    name=property表示一个属性
+                    user是属性的名字 -->
+                <param name="property">user</param>
+            </generator>
+        </id>
+        <property name="count" column="count"/>
+        
+        <!-- 映射一对一关联关系 -->
+        <!-- one-to-one(一对一)
+            name:属性名
+            class:关联的类型
+            constrained:约束
+             -->
+        <one-to-one name="user" class="User" constrained="true"></one-to-one>
+    </class>
+</hibernate-mapping>
