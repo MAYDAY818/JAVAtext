@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="E:\study\持久化框架\HibernateCH02-03"/>
+		<item value="E:\study\持久化框架\HibernateCH02-02"/>
+		<item value="E:\study\持久化框架\HibernateCH02-01"/>
+		<item value="E:\study\spring\springDemo3-El2"/>
+		<item value="E:\study\spring\springWorkSpace\springDemo3-EL"/>
 		<item value="E:\study\持久化框架\HibernateCH05\HibernateCH04-06"/>
 		<item value="E:\study\持久化框架\HibernateCH05\HibernateCH04-05"/>
 		<item value="E:\study\持久化框架\HibernateCH05\HibernateCH05-04"/>
@@ -36,6 +41,13 @@
 		<item value="E:\javaEE\demo"/>
 		<item value="D:\新建文件夹\Compressed\javaHttpApiDemo"/>
 	</list>
+	<section name="CleanDialogSettings">
+		<item value="662" key="DIALOG_WIDTH"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="452" key="DIALOG_HEIGHT"/>
+		<item value="629" key="DIALOG_X_ORIGIN"/>
+		<item value="214" key="DIALOG_Y_ORIGIN"/>
+	</section>
 	<section name="NewWizardAction">
 		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">

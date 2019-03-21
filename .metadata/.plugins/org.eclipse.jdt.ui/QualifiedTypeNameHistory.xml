@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.aliyuncs.profile.DefaultProfile"/>
-<fullyQualifiedTypeName name="com.aliyuncs.dysmsapi.model.v20170525.SendSmsRequest"/>
-<fullyQualifiedTypeName name="com.aliyuncs.DefaultAcsClient"/>
 <fullyQualifiedTypeName name="com.aliyuncs.http.MethodType"/>
 <fullyQualifiedTypeName name="com.aliyuncs.dysmsapi.model.v20170525.SendSmsResponse"/>
 <fullyQualifiedTypeName name="com.aliyuncs.IAcsClient"/>
@@ -34,13 +31,10 @@
 <fullyQualifiedTypeName name="com.rometools.rome.io.SyndFeedInput"/>
 <fullyQualifiedTypeName name="com.rometools.rome.io.XmlReader"/>
 <fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
-<fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
-<fullyQualifiedTypeName name="org.hibernate.Session"/>
 <fullyQualifiedTypeName name="org.hibernate.Transaction"/>
 <fullyQualifiedTypeName name="entity.User"/>
 <fullyQualifiedTypeName name="util.HibernateUtil"/>
 <fullyQualifiedTypeName name="org.hibernate.annotations.Entity"/>
-<fullyQualifiedTypeName name="javax.persistence.Entity"/>
 <fullyQualifiedTypeName name="org.hibernate.annotations.GenericGenerator"/>
 <fullyQualifiedTypeName name="com.lechenggu.springDemo1.User"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
@@ -60,4 +54,10 @@
 <fullyQualifiedTypeName name="org.springframework.core.io.ClassPathResource"/>
 <fullyQualifiedTypeName name="java.lang.reflect.Proxy"/>
 <fullyQualifiedTypeName name="org.springframework.beans.factory.config.BeanPostProcessor"/>
+<fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
+<fullyQualifiedTypeName name="org.hibernate.Session"/>
+<fullyQualifiedTypeName name="com.hibernate.entity.User"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.Table"/>
+<fullyQualifiedTypeName name="javax.persistence.Column"/>
 </qualifiedTypeNameHistroy>
